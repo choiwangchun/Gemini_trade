@@ -36,11 +36,11 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20240426_0003",
+    "com.google.cloudcode.ide_session_index": "20240428_0000",
     "last_opened_file_path": "C:/Users/slek9/PycharmProjects/AutoTrading/test/Main.py"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.streamlit_app">
+  <component name="RunManager" selected="Python.Gemini_auto">
     <configuration name="Gemini_auto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="newvenv" />
       <option name="ENV_FILES" value="" />
@@ -131,8 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.streamlit_app" />
         <item itemvalue="Python.Gemini_auto" />
+        <item itemvalue="Python.streamlit_app" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Main" />
       </list>

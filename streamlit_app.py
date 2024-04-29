@@ -19,7 +19,7 @@ def main():
     st.write("---")
     df = load_data()
     if not df.empty:
-        start_value = 1000000
+        start_value = 100000
         current_price = pyupbit.get_orderbook(ticker="KRW-BTC")['orderbook_units'][0]["ask_price"]
         latest_row = df.iloc[-1]
         btc_balance = latest_row['btc_balance']
